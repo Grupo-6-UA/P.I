@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
+body{
+    margin: 0%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    
+}
+img{
+    position: relative;
+    top:10px;
+}
+.usuario{
+    position: relative;
+    text-align: center;
+    top: -120px;
+    left: -350px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 60px;
+    font-weight: 800;
+    color: #ffffff;
+}
+.tipousuario{
+    position: relative;
+    text-align: center;
+    top: -125px;
+    left: -450px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 800;
+    color:#ffffff;
+}
+.logo{
+    position: relative;
+    top: -253px;
+    left:1300px;
+}
+.corpo{
+    position: relative;
+    top: -242px;
+    min-height:150px;
+    height:612px;
+    background-color: black;
+}
+.subtitulotela3_pedro{
+    position: relative;
+    text-align: center;
+    top: 20px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #ffffff;
+}
+.nomebox1tela3{
+    position: relative;
+    top: 80px;
+    left: 98px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.box1tela3{
+    position: relative;
+    top: 90px;
+    left:98px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.login{
+    position: relative;
+    top: 175px;
+    left: 98px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.box2tela3{
+    position: relative;
+    top: 180px;
+    left:98px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.cpf{
+    position: relative;
+    top: -50px;
+    left: 580px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.box3tela3{
+    position: relative;
+    top: -42.5px;
+    left: 580px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.senha{
+    position: relative;
+    top: 42px;
+    left: 580px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.box4tela3{
+    position: relative;
+    top: 47.5px;
+    left: 580px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.celular{
+    position: relative;
+    top: -180px;
+    left: 1050px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.box5tela3{
+    position: relative;
+    top: -174.5px;
+    left: 1050px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.email{
+    position: relative;
+    top: -90px;
+    left: 1050px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.box6tela3{
+    position: relative;
+    top: -85px;
+    left: 1050px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
