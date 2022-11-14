@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
+body{
+    margin: 0%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.logo{
+    position: relative;
+    top: 2px;
+    min-height :105px;
+    height: 130px;
+}
+.text-logo{
+    position: relative;
+    text-align: center;
+    top: -140px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+}
+.corpo{
+    position: relative;
+    top: 5px;
+    min-height:150px;
+    height:640px;
+    background-color: black;
+}
+.subtitulotela2_pedro{
+    position: relative;
+    text-align: center;
+    top: 30px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #ffffff;
+}
+.boxtela2_pedro1{
+    position: relative;
+    top: 65px;
+    left:98px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.nome_pedroboxtela2{
+    position: relative;
+    top: 80px;
+    left: 98px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.textoboxtela2_pedro2{
+    position: relative;
+    top: 70px;
+    left: 98px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.boxtela2_pedro2{
+    position: relative;
+    top: 53px;
+    left:98px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.textoboxtela2_pedro3{
+    position: relative;
+    top: 70px;
+    left: 98px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+}
+.boxtela2_pedro3{
+    position: relative;
+    top: 53px;
+    left:98px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.textoboxtela2_pedro4{
+    position: relative;
+    top: -239px;
+    left: 580px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff
+}
+.boxtela2_pedro4{
+    position: relative;
+    top: -254px;
+    left:580px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.texto5_pedro5{
+    position: relative;
+    top: -239px;
+    left: 580px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff
+}
+.box5_pedro5{
+    position: relative;
+    top: -254px;
+    left:580px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.texto6_pedro6{
+    position: relative;
+    top: -239px;
+    left: 580px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff
+}
+.box6_pedro6{
+    position: relative;
+    top: -254px;
+    left:580px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.texto7_pedro7{
+    position: relative;
+    top: -555px;
+    left: 1067px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff
+}
+.box7_pedro7{
+    position: relative;
+    top: -572px;
+    left:1067px;
+    width: 285px;
+    height:40px;
+    border-radius: 5%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.box15_pedro8{
+    position: relative;
+    top: -172px;
+    left:600px;
+    width: 200px;
+    height:40px;
+    border-radius: 5%;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(2, 2, 2);
+    font-size: 150%;
+    color: #ffffff;
+}
+.box16_pedro9{
+    position: relative;
+    top: -172px;
+    left:600px;
+    width: 200px;
+    height:40px;
+    border-style: solid;
+    border-color: green;
+    font-size: 150%;
+    color: #ffffff;
+    background-color: green;
+}
